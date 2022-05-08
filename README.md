@@ -15,7 +15,7 @@ If you wants to run this application you need to download some of important supp
 - Download and install the required software shown as above
 - Open NetBeans and follow steps
   - Create one JavaFX FXML project
-  - Now Download this folder and replace with your project file
+  - Now Download project folder and replace with your project file
   - Create new database connection from services tab in netbeans
   - Add two tables and it's data as shown in Tables folder
   - Chnage the database URL in "World.java"
