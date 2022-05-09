@@ -1,6 +1,6 @@
 # J2EE
 
-J2EE Advanture game with scene builder and derby database, HashMap is load those database data and display on UI using JavaFX and scene builder
+J2EE Advanture game with scene builder and derby database, HashMap used to load data from database and display it on UI using JavaFX and scene builder
 
 ## Getting Started
 
